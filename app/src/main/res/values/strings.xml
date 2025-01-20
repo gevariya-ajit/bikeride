@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bike Ride Days</string>
+    
+    <!-- Dashboard Screen -->
+    <string name="title_best_days_for">Best Days for</string>
+    <string name="title_bike_ride">Bike Ride</string>
+    <string name="label_temperature">Temperature</string>
+    <string name="label_conditions">Conditions</string>
+    <string name="label_wind_speed">Wind Speed</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="hourly_forecast_test">Hourly Forecast</string>
+    <string name="feels_like">Feels like</string>
+    <string name="humidity">Humidity</string>
+    <string name="precipitation">Precipitation</string>
+    
+    <!-- Weather Messages -->
+    <string name="weather_perfect">Perfect for biking! 🚲</string>
+    <string name="weather_great">Great day for biking! 🚲</string>
+    <string name="weather_decent">Decent for biking 🌤</string>
+    <string name="weather_not_ideal">Not ideal for biking ⚠️</string>
+    <string name="weather_poor">Poor conditions for biking ⛔</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_dark_theme">Dark Theme</string>
+    <string name="settings_dark_theme_desc">Switch between light and dark theme</string>
+    <string name="settings_temp_unit">Temperature Unit</string>
+    <string name="settings_using_celsius">Using Celsius (°C)</string>
+    <string name="settings_using_fahrenheit">Using Fahrenheit (°F)</string>
+    <string name="settings_wind_unit">Wind Speed Unit</string>
+    <string name="settings_using_kmh">Using km/h</string>
+    <string name="settings_using_mph">Using mph</string>
+    
+    <!-- Location Search -->
+    <string name="search_location">Search Location</string>
+    <string name="search_hint">Enter city name</string>
+    <string name="button_close">Close</string>
+    
+    <!-- Error Messages -->
+    <string name="error_title">Error</string>
+    
+    <!-- Menu Items -->
+    <string name="menu_home">Home</string>
+    <string name="menu_forecast">Forecast</string>
+    <string name="menu_settings">Settings</string>
+</resources>

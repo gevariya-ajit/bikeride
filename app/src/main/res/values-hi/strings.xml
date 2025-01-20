@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बाइक राइड डेज़</string>
+    
+    <!-- Dashboard Screen -->
+    <string name="title_best_days_for">सर्वोत्तम दिन</string>
+    <string name="title_bike_ride">बाइक राइड के लिए</string>
+    <string name="label_temperature">तापमान</string>
+    <string name="label_conditions">मौसम</string>
+    <string name="label_wind_speed">हवा की गति</string>
+    <string name="current_weather">वर्तमान मौसम</string>
+    <string name="hourly_forecast_test">घंटेवार पूर्वानुमान</string>
+    <string name="feels_like">महसूस होता है</string>
+    <string name="humidity">नमी</string>
+    <string name="precipitation">वर्षा</string>
+    
+    <!-- Weather Messages -->
+    <string name="weather_perfect">बाइकिंग के लिए एकदम सही! 🚲</string>
+    <string name="weather_great">बाइकिंग के लिए बढ़िया दिन! 🚲</string>
+    <string name="weather_decent">बाइकिंग के लिए ठीक है 🌤</string>
+    <string name="weather_not_ideal">बाइकिंग के लिए उचित नहीं ⚠️</string>
+    <string name="weather_poor">बाइकिंग के लिए खराब स्थिति ⛔</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_dark_theme">डार्क थीम</string>
+    <string name="settings_dark_theme_desc">लाइट और डार्क थीम के बीच स्विच करें</string>
+    <string name="settings_temp_unit">तापमान इकाई</string>
+    <string name="settings_using_celsius">सेल्सियस का उपयोग (°C)</string>
+    <string name="settings_using_fahrenheit">फ़ारेनहाइट का उपयोग (°F)</string>
+    <string name="settings_wind_unit">हवा की गति इकाई</string>
+    <string name="settings_using_kmh">किमी/घंटा का उपयोग</string>
+    <string name="settings_using_mph">मील/घंटा का उपयोग</string>
+    
+    <!-- Location Search -->
+    <string name="search_location">स्थान खोजें</string>
+    <string name="search_hint">शहर का नाम दर्ज करें</string>
+    <string name="button_close">बंद करें</string>
+    
+    <!-- Error Messages -->
+    <string name="error_title">त्रुटि</string>
+    
+    <!-- Menu Items -->
+    <string name="menu_home">होम</string>
+    <string name="menu_forecast">पूर्वानुमान</string>
+    <string name="menu_settings">सेटिंग्स</string>
+</resources> 
